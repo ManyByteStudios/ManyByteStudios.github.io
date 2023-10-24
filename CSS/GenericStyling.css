@@ -4,5 +4,10 @@ html{
 
 body {
 	color: white;
+	text-align: justify;
 	background-color: black;
+}
+
+#MainContents {
+	padding-top: 80px;
 }
