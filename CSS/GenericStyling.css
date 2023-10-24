@@ -11,3 +11,9 @@ body {
 #MainContents {
 	padding-top: 80px;
 }
+
+#Contact{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	bacground-color: #212529;
+}
