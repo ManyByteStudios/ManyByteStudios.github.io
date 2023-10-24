@@ -1,0 +1,21 @@
+#ProjectShowcase {
+	padding-top: 15px;
+	padding-left:10%;
+	padding-right: 10%;
+	padding-bottom: 15px;
+}
+
+.grid-container {
+	gap: 100px;
+	display: grid;
+	padding-top: 50px;
+	grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+}
+
+.grid-item {
+	padding: 20px;
+	text-align: center;
+	border-style: solid;
+	border-color: white;
+	background-color: black;
+}
